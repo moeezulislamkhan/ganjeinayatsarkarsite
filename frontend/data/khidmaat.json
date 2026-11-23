@@ -1,0 +1,70 @@
+{
+  "_help": "The five Khidmaat cards. icon must be one of: book-open, prayer-beads, users, file-text, heart-hand. description is optional (leave empty strings to hide).",
+  "intro": {
+    "ur": "گنجِ عنایت سرکار روحانی رہنمائی، اسلامی علوم اور خدمت کا مرکز ہے جو مبارک سلسلۂ نقشبندیہ سے گہری وابستگی رکھتا ہے۔ ہمارا مقصد اسلام کی حقیقی تعلیمات کو زندہ کرنا، علم کی روشنی پھیلانا اور روحانی و سماجی خدمات کے ذریعے انسانیت کی خدمت کرنا ہے۔",
+    "en": "Ganj-e-Inayat Sarkar is a centre of spiritual guidance, Islamic knowledge and service, deeply connected with the blessed Silsila-e-Naqshbandia. Our mission is to revive the true teachings of Islam, spread the light of knowledge and serve humanity through spiritual and social khidmaat."
+  },
+  "_introNote": "Intro text comes from the approved UI design; the Urdu is a DRAFT translation - the institution must confirm both.",
+  "items": [
+    {
+      "id": 1,
+      "icon": "book-open",
+      "title": {
+        "ur": "تعلیم و اسلامی علوم",
+        "en": "Education & Islamic Learning"
+      },
+      "description": {
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": 2,
+      "icon": "prayer-beads",
+      "title": {
+        "ur": "روحانی رہنمائی",
+        "en": "Spiritual Guidance"
+      },
+      "description": {
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": 3,
+      "icon": "users",
+      "title": {
+        "ur": "سماجی بہبود و خدمتِ خلق",
+        "en": "Social Welfare & Community Service"
+      },
+      "description": {
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": 4,
+      "icon": "file-text",
+      "title": {
+        "ur": "تحقیق و اشاعت",
+        "en": "Research & Publications"
+      },
+      "description": {
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": 5,
+      "icon": "heart-hand",
+      "title": {
+        "ur": "خدمتِ انسانیت",
+        "en": "Khidmaat for Humanity"
+      },
+      "description": {
+        "ur": "",
+        "en": ""
+      }
+    }
+  ]
+}

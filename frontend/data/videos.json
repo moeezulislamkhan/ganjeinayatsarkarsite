@@ -1,0 +1,46 @@
+{
+  "_help": "YouTube videos. youtubeId is the part after v= in the video link. title is optional (leave empty to show 'Video 1', 'Video 2'...).",
+  "channelUrl": "https://www.youtube.com/c/GanjeInayatOfficial",
+  "items": [
+    {
+      "id": 1,
+      "youtubeId": "akMOI2hTkrk",
+      "title": {
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": 2,
+      "youtubeId": "OUPV6bjC6dk",
+      "title": {
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": 3,
+      "youtubeId": "zif0JIfzYn8",
+      "title": {
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": 4,
+      "youtubeId": "_3m42VVn-3w",
+      "title": {
+        "ur": "",
+        "en": ""
+      }
+    },
+    {
+      "id": 5,
+      "youtubeId": "6nidD5GwxaI",
+      "title": {
+        "ur": "",
+        "en": ""
+      }
+    }
+  ]
+}

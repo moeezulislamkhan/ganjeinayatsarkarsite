@@ -1,0 +1,23 @@
+{
+  "_help": "Books and articles. type: book | article. cover: 600x800 WebP in assets/publications/. file: optional PDF in assets/publications/files/ (or any web link). Example item below - copy it, change the values, and remove _example.",
+  "_example": {
+    "id": 1,
+    "type": "book",
+    "title": {
+      "ur": "کتاب کا نام",
+      "en": "Book title"
+    },
+    "author": {
+      "ur": "مصنف",
+      "en": "Author"
+    },
+    "description": {
+      "ur": "مختصر تعارف",
+      "en": "Short description"
+    },
+    "cover": "assets/publications/example-cover.webp",
+    "file": "assets/publications/files/example.pdf",
+    "published": "2024-01-31"
+  },
+  "items": []
+}

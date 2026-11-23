@@ -1,0 +1,92 @@
+{
+  "_help": "Weekly / monthly / annual programs. type: weekly | monthly | annual. image is optional (assets/events/...). schedule/dates can be left empty.",
+  "items": [
+    {
+      "id": 1,
+      "type": "weekly",
+      "kind": {
+        "ur": "ہفتہ وار پروگرام",
+        "en": "Weekly program"
+      },
+      "title": {
+        "ur": "محفلِ درود شریف",
+        "en": "Mehfil-e-Durood Shareef"
+      },
+      "schedule": {
+        "ur": "ہر ہفتہ بعد از نماز عشاء",
+        "en": "Every week after the Isha prayer"
+      },
+      "about": {
+        "ur": "",
+        "en": ""
+      },
+      "presidedBy": {
+        "ur": "صاحبزادہ حافظ پیر محمد عمر نقشبندی مجددی حفظہ اللہ",
+        "en": "Sahibzada Hafiz Pir Muhammad Umer Naqshbandi Mujaddidi (hafizahullah)"
+      },
+      "venue": {
+        "ur": "دربار عالیہ حضور گنج عنایت سرکار کبوتر پورہ شریف گلبرگ 3 لاہور",
+        "en": "Darbar-e-Aaliya Hazoor Ganj-e-Inayat Sarkar, Kabutar Pura Sharif, Gulberg III, Lahore"
+      },
+      "image": null
+    },
+    {
+      "id": 2,
+      "type": "monthly",
+      "kind": {
+        "ur": "ماہانہ پروگرام",
+        "en": "Monthly program"
+      },
+      "title": {
+        "ur": "ماہانہ محفل پاک",
+        "en": "Monthly Mehfil-e-Paak"
+      },
+      "schedule": {
+        "ur": "",
+        "en": ""
+      },
+      "about": {
+        "ur": "",
+        "en": ""
+      },
+      "presidedBy": {
+        "ur": "صاحبزادہ حافظ پیر محمد عمر نقشبندی مجددی حفظہ اللہ",
+        "en": "Sahibzada Hafiz Pir Muhammad Umer Naqshbandi Mujaddidi (hafizahullah)"
+      },
+      "venue": {
+        "ur": "دربار عالیہ حضور گنج عنایت سرکار کبوتر پورہ شریف گلبرگ 3 لاہور",
+        "en": "Darbar-e-Aaliya Hazoor Ganj-e-Inayat Sarkar, Kabutar Pura Sharif, Gulberg III, Lahore"
+      },
+      "image": null
+    },
+    {
+      "id": 3,
+      "type": "annual",
+      "kind": {
+        "ur": "سالانہ پروگرام",
+        "en": "Annual program"
+      },
+      "title": {
+        "ur": "سالانہ عرس مبارک",
+        "en": "Annual Urs Mubarak"
+      },
+      "schedule": {
+        "ur": "",
+        "en": ""
+      },
+      "about": {
+        "ur": "ولی کامل شیخ طریقت حضرت علامہ پیر محمد عنایت احمد نقشبندی علیہ رحمہ",
+        "en": "Wali-e-Kamil Sheikh-e-Tariqat Hazrat Allama Pir Muhammad Inayat Ahmad Naqshbandi (rahimahullah)"
+      },
+      "presidedBy": {
+        "ur": "صاحبزادہ حافظ پیر محمد عمر نقشبندی مجددی حفظہ اللہ",
+        "en": "Sahibzada Hafiz Pir Muhammad Umer Naqshbandi Mujaddidi (hafizahullah)"
+      },
+      "venue": {
+        "ur": "دربار عالیہ حضور گنج عنایت سرکار کبوتر پورہ شریف گلبرگ 3 لاہور",
+        "en": "Darbar-e-Aaliya Hazoor Ganj-e-Inayat Sarkar, Kabutar Pura Sharif, Gulberg III, Lahore"
+      },
+      "image": null
+    }
+  ]
+}

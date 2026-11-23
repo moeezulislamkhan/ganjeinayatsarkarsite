@@ -1,0 +1,355 @@
+{
+  "_help": "Gallery photos. image = full size (1600px), thumb = 520px wide. category: darbar | events (labels are in js/i18n.js). Delete the lines of any photo you do not want.",
+  "items": [
+    {
+      "id": 1,
+      "image": "assets/gallery/darbar-01.webp",
+      "thumb": "assets/gallery/thumbs/darbar-01.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 1",
+        "en": "Darbar Sharif - photo 1"
+      }
+    },
+    {
+      "id": 2,
+      "image": "assets/gallery/darbar-02.webp",
+      "thumb": "assets/gallery/thumbs/darbar-02.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 2",
+        "en": "Darbar Sharif - photo 2"
+      }
+    },
+    {
+      "id": 3,
+      "image": "assets/gallery/darbar-03.webp",
+      "thumb": "assets/gallery/thumbs/darbar-03.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 3",
+        "en": "Darbar Sharif - photo 3"
+      }
+    },
+    {
+      "id": 4,
+      "image": "assets/gallery/darbar-04.webp",
+      "thumb": "assets/gallery/thumbs/darbar-04.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 4",
+        "en": "Darbar Sharif - photo 4"
+      }
+    },
+    {
+      "id": 5,
+      "image": "assets/gallery/darbar-05.webp",
+      "thumb": "assets/gallery/thumbs/darbar-05.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 5",
+        "en": "Darbar Sharif - photo 5"
+      }
+    },
+    {
+      "id": 6,
+      "image": "assets/gallery/darbar-06.webp",
+      "thumb": "assets/gallery/thumbs/darbar-06.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 6",
+        "en": "Darbar Sharif - photo 6"
+      }
+    },
+    {
+      "id": 7,
+      "image": "assets/gallery/darbar-07.webp",
+      "thumb": "assets/gallery/thumbs/darbar-07.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 7",
+        "en": "Darbar Sharif - photo 7"
+      }
+    },
+    {
+      "id": 8,
+      "image": "assets/gallery/darbar-08.webp",
+      "thumb": "assets/gallery/thumbs/darbar-08.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 8",
+        "en": "Darbar Sharif - photo 8"
+      }
+    },
+    {
+      "id": 9,
+      "image": "assets/gallery/darbar-09.webp",
+      "thumb": "assets/gallery/thumbs/darbar-09.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 9",
+        "en": "Darbar Sharif - photo 9"
+      }
+    },
+    {
+      "id": 10,
+      "image": "assets/gallery/darbar-10.webp",
+      "thumb": "assets/gallery/thumbs/darbar-10.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 10",
+        "en": "Darbar Sharif - photo 10"
+      }
+    },
+    {
+      "id": 11,
+      "image": "assets/gallery/darbar-11.webp",
+      "thumb": "assets/gallery/thumbs/darbar-11.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 11",
+        "en": "Darbar Sharif - photo 11"
+      }
+    },
+    {
+      "id": 12,
+      "image": "assets/gallery/darbar-12.webp",
+      "thumb": "assets/gallery/thumbs/darbar-12.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 12",
+        "en": "Darbar Sharif - photo 12"
+      }
+    },
+    {
+      "id": 13,
+      "image": "assets/gallery/darbar-13.webp",
+      "thumb": "assets/gallery/thumbs/darbar-13.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 13",
+        "en": "Darbar Sharif - photo 13"
+      }
+    },
+    {
+      "id": 14,
+      "image": "assets/gallery/darbar-14.webp",
+      "thumb": "assets/gallery/thumbs/darbar-14.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 14",
+        "en": "Darbar Sharif - photo 14"
+      }
+    },
+    {
+      "id": 15,
+      "image": "assets/gallery/darbar-15.webp",
+      "thumb": "assets/gallery/thumbs/darbar-15.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 15",
+        "en": "Darbar Sharif - photo 15"
+      }
+    },
+    {
+      "id": 16,
+      "image": "assets/gallery/darbar-16.webp",
+      "thumb": "assets/gallery/thumbs/darbar-16.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 16",
+        "en": "Darbar Sharif - photo 16"
+      }
+    },
+    {
+      "id": 17,
+      "image": "assets/gallery/darbar-17.webp",
+      "thumb": "assets/gallery/thumbs/darbar-17.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 17",
+        "en": "Darbar Sharif - photo 17"
+      }
+    },
+    {
+      "id": 18,
+      "image": "assets/gallery/darbar-18.webp",
+      "thumb": "assets/gallery/thumbs/darbar-18.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 18",
+        "en": "Darbar Sharif - photo 18"
+      }
+    },
+    {
+      "id": 19,
+      "image": "assets/gallery/darbar-19.webp",
+      "thumb": "assets/gallery/thumbs/darbar-19.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 19",
+        "en": "Darbar Sharif - photo 19"
+      }
+    },
+    {
+      "id": 20,
+      "image": "assets/gallery/darbar-20.webp",
+      "thumb": "assets/gallery/thumbs/darbar-20.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 20",
+        "en": "Darbar Sharif - photo 20"
+      }
+    },
+    {
+      "id": 21,
+      "image": "assets/gallery/darbar-21.webp",
+      "thumb": "assets/gallery/thumbs/darbar-21.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 21",
+        "en": "Darbar Sharif - photo 21"
+      }
+    },
+    {
+      "id": 22,
+      "image": "assets/gallery/darbar-22.webp",
+      "thumb": "assets/gallery/thumbs/darbar-22.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 22",
+        "en": "Darbar Sharif - photo 22"
+      }
+    },
+    {
+      "id": 23,
+      "image": "assets/gallery/darbar-23.webp",
+      "thumb": "assets/gallery/thumbs/darbar-23.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 23",
+        "en": "Darbar Sharif - photo 23"
+      }
+    },
+    {
+      "id": 24,
+      "image": "assets/gallery/darbar-24.webp",
+      "thumb": "assets/gallery/thumbs/darbar-24.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 24",
+        "en": "Darbar Sharif - photo 24"
+      }
+    },
+    {
+      "id": 25,
+      "image": "assets/gallery/darbar-25.webp",
+      "thumb": "assets/gallery/thumbs/darbar-25.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 25",
+        "en": "Darbar Sharif - photo 25"
+      }
+    },
+    {
+      "id": 26,
+      "image": "assets/gallery/darbar-26.webp",
+      "thumb": "assets/gallery/thumbs/darbar-26.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 26",
+        "en": "Darbar Sharif - photo 26"
+      }
+    },
+    {
+      "id": 27,
+      "image": "assets/gallery/darbar-27.webp",
+      "thumb": "assets/gallery/thumbs/darbar-27.webp",
+      "category": "darbar",
+      "alt": {
+        "ur": "دربار شریف — تصویر 27",
+        "en": "Darbar Sharif - photo 27"
+      }
+    },
+    {
+      "id": 28,
+      "image": "assets/events/poster-weekly-mahfil.webp",
+      "thumb": "assets/events/thumb-poster-weekly-mahfil.webp",
+      "category": "events",
+      "alt": {
+        "ur": "محفل کا پوسٹر (آرکائیو) — 1",
+        "en": "Mehfil poster (archive) - 1"
+      }
+    },
+    {
+      "id": 29,
+      "image": "assets/events/poster-weekly-mehfil.webp",
+      "thumb": "assets/events/thumb-poster-weekly-mehfil.webp",
+      "category": "events",
+      "alt": {
+        "ur": "محفل کا پوسٹر (آرکائیو) — 2",
+        "en": "Mehfil poster (archive) - 2"
+      }
+    },
+    {
+      "id": 30,
+      "image": "assets/events/poster-mahfil-sep-2022.webp",
+      "thumb": "assets/events/thumb-poster-mahfil-sep-2022.webp",
+      "category": "events",
+      "alt": {
+        "ur": "محفل کا پوسٹر (آرکائیو) — 3",
+        "en": "Mehfil poster (archive) - 3"
+      }
+    },
+    {
+      "id": 31,
+      "image": "assets/events/poster-salana-mehfil.webp",
+      "thumb": "assets/events/thumb-poster-salana-mehfil.webp",
+      "category": "events",
+      "alt": {
+        "ur": "محفل کا پوسٹر (آرکائیو) — 4",
+        "en": "Mehfil poster (archive) - 4"
+      }
+    },
+    {
+      "id": 32,
+      "image": "assets/events/poster-salana-urs-1.webp",
+      "thumb": "assets/events/thumb-poster-salana-urs-1.webp",
+      "category": "events",
+      "alt": {
+        "ur": "محفل کا پوسٹر (آرکائیو) — 5",
+        "en": "Mehfil poster (archive) - 5"
+      }
+    },
+    {
+      "id": 33,
+      "image": "assets/events/poster-salana-urs-2.webp",
+      "thumb": "assets/events/thumb-poster-salana-urs-2.webp",
+      "category": "events",
+      "alt": {
+        "ur": "محفل کا پوسٹر (آرکائیو) — 6",
+        "en": "Mehfil poster (archive) - 6"
+      }
+    },
+    {
+      "id": 34,
+      "image": "assets/events/poster-1-jan-2022.webp",
+      "thumb": "assets/events/thumb-poster-1-jan-2022.webp",
+      "category": "events",
+      "alt": {
+        "ur": "محفل کا پوسٹر (آرکائیو) — 7",
+        "en": "Mehfil poster (archive) - 7"
+      }
+    },
+    {
+      "id": 35,
+      "image": "assets/events/poster-2-jan-2022.webp",
+      "thumb": "assets/events/thumb-poster-2-jan-2022.webp",
+      "category": "events",
+      "alt": {
+        "ur": "محفل کا پوسٹر (آرکائیو) — 8",
+        "en": "Mehfil poster (archive) - 8"
+      }
+    }
+  ]
+}

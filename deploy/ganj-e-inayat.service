@@ -1,0 +1,16 @@
+# systemd service: /etc/systemd/system/ganj-e-inayat.service
+# Then:  sudo systemctl daemon-reload && sudo systemctl enable --now ganj-e-inayat
+[Unit]
+Description=Ganj-e-Inayat Sarkar web app (contact form API)
+After=network.target
+
+[Service]
+User=www-data
+WorkingDirectory=/var/www/ganj-e-inayat/backend
+Environment=APP_ENV=production
+# one worker: the contact-form rate limit is kept in memory
+ExecStart=/var/www/ganj-e-inayat/backend/.venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000 --proxy-headers --forwarded-allow-ips=127.0.0.1
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

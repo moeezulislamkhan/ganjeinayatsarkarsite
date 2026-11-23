@@ -1,0 +1,6 @@
+/* Most layout flips automatically because the CSS uses logical properties
+   (margin-inline, inset-inline, padding-inline, text-align: start ...). Exceptions only: */
+[dir="rtl"] .icon-flip { transform: scaleX(-1); }
+[dir="rtl"] .hero__overlay { background: linear-gradient(270deg, rgba(51, 6, 18, 0.94) 0%, rgba(71, 9, 26, 0.78) 42%, rgba(71, 9, 26, 0.12) 78%, rgba(71, 9, 26, 0) 100%); }
+[dir="rtl"] .hero__orn { transform: scaleX(-1); }
+[dir="rtl"] .gallery-strip__track { direction: rtl; }

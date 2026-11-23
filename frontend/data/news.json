@@ -1,0 +1,21 @@
+{
+  "_help": "News and announcements. image is optional (1200x675 WebP in assets/news/). published is the date YYYY-MM-DD. Newest first is automatic. Example below - copy it, change the values, and remove _example.",
+  "_example": {
+    "id": 1,
+    "title": {
+      "ur": "خبر کا عنوان",
+      "en": "News title"
+    },
+    "summary": {
+      "ur": "مختصر خلاصہ",
+      "en": "Short summary"
+    },
+    "body": {
+      "ur": "مکمل خبر",
+      "en": "Full text"
+    },
+    "image": "assets/news/example.webp",
+    "published": "2024-01-31"
+  },
+  "items": []
+}

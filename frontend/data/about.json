@@ -1,0 +1,243 @@
+{
+  "_help": "About page. Every text is {ur, en}; paragraphs are {ur:[...], en:[...]} (one list item per paragraph). If a language is empty the site shows the other language with a notice. Urdu text is copied from the old website; the English paragraphs for the biography and father are DRAFT translations that the institution must approve (the Sahibzada English text is the old website's own).",
+  "institution": {
+    "title": {
+      "ur": "دربارِ عالیہ حضور گنجِ عنایت سرکار",
+      "en": "Darbar-e-Aaliya Hazoor Ganj-e-Inayat Sarkar"
+    },
+    "eyebrow": {
+      "ur": "ہمارے ادارے کا تعارف",
+      "en": "About our institution"
+    },
+    "paragraphs": {
+      "ur": [
+        "گنجِ عنایت سرکار روحانی رہنمائی، اسلامی علوم اور خدمت کا مرکز ہے جو مبارک سلسلۂ نقشبندیہ سے گہری وابستگی رکھتا ہے۔ ہمارا مقصد اسلام کی حقیقی تعلیمات کو زندہ کرنا، علم کی روشنی پھیلانا اور روحانی و سماجی خدمات کے ذریعے انسانیت کی خدمت کرنا ہے۔"
+      ],
+      "en": [
+        "Ganj-e-Inayat Sarkar is a centre of spiritual guidance, Islamic knowledge and service, deeply connected with the blessed Silsila-e-Naqshbandia. Our mission is to revive the true teachings of Islam, spread the light of knowledge and serve humanity through spiritual and social khidmaat."
+      ]
+    },
+    "note": "Text from the approved UI design; the Urdu is a DRAFT translation. Confirm with the institution.",
+    "image": "assets/gallery/darbar-04.webp",
+    "imageAlt": {
+      "ur": "دربار شریف کا گنبد",
+      "en": "The dome of the Darbar Sharif"
+    }
+  },
+  "hazoor": {
+    "name": {
+      "ur": "حضرت پیر محمد عنایت احمد نقشبندی مجددی رحمۃ اللہ علیہ",
+      "en": "Hazrat Pir Muhammad Inayat Ahmad Naqshbandi Mujaddidi (rahimahullah)"
+    },
+    "known": {
+      "ur": "المعروف حضور گنجِ عنایت سرکار",
+      "en": "Known as Hazoor Ganj-e-Inayat Sarkar"
+    },
+    "image": "assets/people/hazoor-ganj-e-inayat-sarkar.webp",
+    "photos": [
+      "assets/people/hazoor-02.webp",
+      "assets/people/hazoor-03.webp",
+      "assets/people/hazoor-04.webp",
+      "assets/people/hazoor-06.webp"
+    ],
+    "timeline": [
+      {
+        "year": {
+          "ur": "1937ء",
+          "en": "1937"
+        },
+        "text": {
+          "ur": "ولادتِ با سعادت، گاؤں کلسیاں، وادیٔ کشمیر",
+          "en": "Blessed birth in the village of Kalsian, Kashmir Valley"
+        }
+      },
+      {
+        "year": {
+          "ur": "1969ء",
+          "en": "1969"
+        },
+        "text": {
+          "ur": "کبوتر پورہ شریف گلبرگ 3 لاہور تشریف آوری اور مسجد کی امامت",
+          "en": "Arrival at Kabutar Pura Sharif, Gulberg III, Lahore, and charge of the mosque as imam"
+        }
+      },
+      {
+        "year": {
+          "ur": "1971ء",
+          "en": "1971"
+        },
+        "text": {
+          "ur": "جامع مسجد طہ کا سنگِ بنیاد",
+          "en": "Foundation stone of Jamia Masjid Taha laid"
+        }
+      },
+      {
+        "year": {
+          "ur": "31 جولائی 2011ء",
+          "en": "31 July 2011"
+        },
+        "text": {
+          "ur": "وصال، 73 سال کی عمر میں",
+          "en": "Passed away at the age of 73"
+        }
+      }
+    ],
+    "sections": [
+      {
+        "id": "birth",
+        "title": {
+          "ur": "ولادت با سعادت",
+          "en": "Blessed birth"
+        },
+        "paragraphs": {
+          "ur": [
+            "حضرت پیر محمد عنایت احمد نقشبندی مجددی رحمۃ اللّٰه علیہ المشہور حضور گنجِ عنایت سرکار رحمۃ اللّٰه علیہ 1937ء کو وادی کشمیر کے معروف گاؤں “کلسیاں” کے ایک دینی و روحانی خاندان میں پیدا ہوئے۔ آپ رحمتہ اللّٰه علیہ کے والد بزرگوار حضرت میاں صحبت علی قادری رحمۃ اللّٰه علیہ شرافت، دیانت اور روحانیت کے اعتبار سے پوری وادی میں الگ پہچان رکھتے تھے ۔ حضرت صحبت علی قادری رحمۃ اللّٰه علیہ بٹالہ شریف انڈیا میں بیعت تھے جن کی شہرت پورے ہندوستان میں تھی۔ تبلیغ دین اور روحانی فیض کے ساتھ ساتھ آپ رحمتہ اللّٰه علیہ کے والد گرامی کا زریعہ معاش کھیتی باڑی تھا اور پھلوں کے کچھ باغ بھی آپ رحمتہ اللّٰه علیہ کی ملکیت تھے۔",
+            "آپ رحمتہ اللہ علیہ کی والدہ انتہائی نیک سیرت اور پابند صوم و صلوٰۃ خاتون تھیں۔",
+            "آپ رحمتہ اللّٰه علیہ کی ولادت کے بعد مبارک باد دینے آپکے گھر قطب الاقطاب حضرت سید ولایت علی شاہ رحمتہ اللّٰه علیہ تشریف لائے اور آپکو گود میں اٹھا کر پیار کرتے ہوئے فرمایا اللّٰه تعالیٰ نے چاہا تو یہ بچہ اپنے وقت کا قطب، عالم دین اور منبع رشد و ہدایت ہوگا اور لاکھوں بھٹکے ہوئے انسانوں کو صراط مستقیم پر گامزن کرے گا۔ اللّٰه تعالیٰ نے اس ولی کامل کی زبان سے نکلے ہوئے الفاظ کی کچھ اس طرح لاج رکھی کہ جب اس بچے نے منصبِ ولایت پر فائز ہونے کے بعد خود کو دین الٰہی کی تبلیغ اور نبی کریم صلی اللّٰه علیہ وسلم کی محبت کو عام کرنے میں کچھ اس طرح وقف کر دیا کہ پورے ملک سے لوگ جوق در جوق آپ رحمتہ اللّٰه علیہ کی زیارت اور فیض حاصل کرنے کے لئے آتے رہے۔"
+          ],
+          "en": [
+            "Hazrat Pir Muhammad Inayat Ahmad Naqshbandi Mujaddidi (rahimahullah), known as Hazoor Ganj-e-Inayat Sarkar, was born in 1937 in the well-known village of Kalsian in the Kashmir Valley, into a religious and spiritual family. His respected father, Hazrat Mian Suhbat Ali Qadri (rahimahullah), was known throughout the valley for his nobility, honesty and spirituality. Hazrat Suhbat Ali Qadri had pledged allegiance (bay'at) at Batala Sharif, India, and was renowned across India. Alongside preaching and spiritual guidance, his father earned his living through farming, and he also owned a few fruit orchards.",
+            "His mother was a woman of excellent character, regular in fasting and prayer.",
+            "After his birth, the Qutb-ul-Aqtab Hazrat Syed Wilayat Ali Shah (rahimahullah) came to the house to offer congratulations. Taking the child in his lap and caressing him, he said that, if Allah willed, this child would become the Qutb of his time, a scholar of religion and a source of guidance, and would lead millions of lost people onto the straight path. Allah upheld the words of this perfect saint in such a way that, after he was raised to the station of sainthood, the child devoted himself so completely to spreading the religion of Allah and the love of the Holy Prophet (peace be upon him) that people from across the country kept coming in crowds to visit him and receive his blessings."
+          ]
+        }
+      },
+      {
+        "id": "education",
+        "title": {
+          "ur": "ابتدائی تعلیم",
+          "en": "Early education"
+        },
+        "paragraphs": {
+          "ur": [
+            "حضور گنجِ عنایت سرکار رحمۃ اللّٰه علیہ نے کشمیر کے گاؤں “کلسیاں” کے ایک سرکاری سکول میں دنیاوی تعلیم کا باقاعدہ آغاز کیا۔ جبکہ قرآن کریم اپنی والدہ ماجدہ سے پڑھا. پھر آپ رحمتہ اللّٰه علیہ کا خاندان وادی کشمیر سے ہجرت کر کے گجرات کے نواحی قصبے چک 34 میں آکر آباد ہوگیا۔ یہاں آئے ہوئے ابھی چند سال ہی گزرے تھے کہ آپکی والدہ ماجدہ کا انتقال ہوگیا ۔ جب آپ رحمتہ اللّٰه علیہ نے کچھ ہوش سنبھالا تو والد گرامی نے آپ رحمتہ اللّٰه علیہ کو علاقے کی معروف دینی شخصیت، شیخ القرآن مولانا غلام علی اوکاڑوی اشرفی رحمۃ اللّٰہ علیہ کے مدرسے میں داخل کروا دیا۔ کچھ عرصہ تو دینی تعلیم کا سلسلہ چک 34 میں ہی جاری رہا پھر جب حضرت مولانا غلام علی اوکاڑوی رحمۃ اللّٰہ علیہ نے اوکاڑہ شہر میں ایک بڑے دینی مدرسے “اشرف المدارس” کی بنیاد رکھی تو آپ بھی اپنے والد گرامی کے حکم پر اوکاڑہ تشریف لے آئے اور سالہا سال تک یہاں تعلیمی مدارج طے کرتے رہے ۔ بعد ازاں آپ پاکپتن شریف میں شیخ الحدیث مولانا منظور احمد رحمۃ اللّٰه علیہ کے ہاں بھی تعلیم حاصل کرتے رہے پھر آپ قصور شہر میں شیخ الحدیث حضرت مولانا محمد عبداللّٰه قصوری رحمۃ اللّٰه علیہ کے مدرسے میں آٹھ سال تک تعلیمی مدارج طے کرتے رہے۔ آپ رحمتہ اللّٰه علیہ کے اساتذہ میں شیخ القرآن حضرت مولانا غلام علی اوکاڑوی رحمۃ اللّٰہ علیہ، شیخ الحدیث مولانا محمد عبداللّٰه قصوری رحمۃ اللّٰه علیہ، حضرت علامہ منظور احمد نقشبندی رحمۃ اللہ علیہ (کروڑ پکا والے) اور حضرت مولانا عبدالله جھنگوی رحمتہ اللّٰه علیہ جیسے نامور اساتذہ ہیں۔۔"
+          ],
+          "en": [
+            "Hazoor Ganj-e-Inayat Sarkar (rahimahullah) began his regular worldly schooling at a government school in the village of Kalsian in Kashmir, while he learned the Holy Quran from his mother. His family then migrated from the Kashmir Valley and settled in Chak 34, a town near Gujrat. Only a few years after they arrived, his mother passed away. When he had grown a little older, his father enrolled him in the madrasa of the well-known religious figure Sheikh-ul-Quran Maulana Ghulam Ali Okarvi Ashrafi (rahimahullah). His religious studies continued in Chak 34 for some time; then, when Maulana Ghulam Ali Okarvi founded a large madrasa called Ashraf-ul-Madaris in the city of Okara, he came to Okara on his father's instruction and spent many years there progressing through his studies. Afterwards he also studied under Sheikh-ul-Hadith Maulana Manzoor Ahmad (rahimahullah) in Pakpattan Sharif, and then spent eight years studying at the madrasa of Sheikh-ul-Hadith Hazrat Maulana Muhammad Abdullah Qasuri (rahimahullah) in the city of Kasur. Among his teachers were distinguished scholars such as Sheikh-ul-Quran Hazrat Maulana Ghulam Ali Okarvi, Sheikh-ul-Hadith Maulana Muhammad Abdullah Qasuri, Hazrat Allama Manzoor Ahmad Naqshbandi (of Kot Karor Pakka) and Hazrat Maulana Abdullah Jhangvi (rahimahumullah)."
+          ]
+        }
+      },
+      {
+        "id": "life",
+        "title": {
+          "ur": "حیاتِ مقدسہ",
+          "en": "Blessed life"
+        },
+        "paragraphs": {
+          "ur": [
+            "حضور گنجِ عنایت سرکار رحمۃ اللّٰه علیہ جب تک اشرف المدارس اوکاڑہ میں زیر تعلیم رہے۔ حضور گنج کرم حضرت سید محمد اسماعیل شاہ بخاری رحمتہ اللّٰه علیہ سے والہانہ محبت کا رشتہ بھی استوار ہوتا رہا۔ کئی مرتبہ آپ حضرت مولانا غلام علی اوکاڑوی رحمۃ اللّٰہ علیہ کے ہمراہ حضرت کرماں والا شریف حاضر ہوئے۔ پھر آپ رحمتہ اللّٰه علیہ کے دل میں روحانیت کی منازل طے کرنے کا ایسا جنون طاری ہوا کہ اکثر وہاں حاضری دینے لگے۔ ایک شام حضرت سید محمد اسماعیل شاہ بخاری رحمتہ اللّٰه علیہ کا بیعت ہونے شوق دل میں موجزن ہوا پیدل ہی حضرت کرماں والا شریف جا پہنچے۔ گوشہ خاص میں وضائف میں مشغول حضرت صاحب کرماں والے رحمتہ اللّٰه علیہ کی نظر کرم آپ پر پڑی، آپ نے مرید ہونے کی استدعا کی۔ یہ سن کر حضرت سید محمد اسماعیل شاہ بخاری رحمتہ اللّٰه علیہ نے فرمایا “بیلیا! تم تو روز ازل سے ہی میرے مرید ہو” یہ فرما کر اپنا دست شفقت آپ رحمتہ اللّٰه علیہ کے سینے پر پھیرا اور فرمایا جاؤ ہم تمہیں دنیا کے تمام علوم عطا کرتے ہیں۔",
+            "آپ رحمتہ اللہ علیہ اپنے مرشدِ کریم حضرت صاحب کرماں والے رحمتہ اللہ علیہ سے والہانہ محبت کرتے تھے۔",
+            "۔1969 ء میں حضرت پیر محمد عنایت احمد نقشبندی رحمۃ اللہ علیہ کبوتر پورہ شریف گلبرگ 3 میں تشریف لائے اور مسجد کی امامت سنمبھالی تو یہ مسجد انتہائی خستہ حال تھی۔ آپ رحمتہ اللّٰه علیہ نے اسے تعمیر کروانے کا عزم کیا اور 1971ء میں اپنے دست مبارک سے اس مسجد کا سنگِ بنیاد رکھا جس کا نام آپ نے جامع مسجد طہ رکھا۔ ابتداء میں جب آپ نے نماز جمعہ کا اہتمام کیا تو نمازیوں کی تعداد نا ہونے کے برابر تھی، لیکن چند ہی سالوں میں عاشقانِ رسول صلی اللّٰه علیہ وسلم کا رخ جامع مسجد طہ کی جانب ہونے لگا۔ ہر نماز کے بعد درس و تدریس کا سلسلہ شروع ہوگیا اور ہزاروں لوگوں نے آپکے دست مبارک پر اسلام قبول کیا۔ لاہور اومنی بس ورکشاپ میں آپ رحمتہ اللّٰه علیہ مسلسل 14 سال تک درس دیتے رہے۔",
+            "آپ رحمتہ اللّٰه علیہ کو حضرت سید ظہیر الحسن شاہ رحمۃ اللّٰه علیہ کراچی، سجادہ نشین آستانہ عالیہ مکان شریف حضرت سید محفوظ حسین شاہ رحمۃ اللّٰه علیہ، شیخ الحدیث مولانا محمد عبداللّٰه قصوری رحمۃ اللّٰه علیہ، پیر صاحب دیول شریف اور جانشین گنج کرم حضور باباجی پیر سید میر طیب علی شاہ بخاری رحمتہ اللّٰه علیہ و دیگر بزرگوں نے خلافت و اجازت سے نوازا۔",
+            "شیخ القرآن حضرت مولانا غلام علی اوکاڑوی رحمۃ اللّٰہ علیہ جامع مسجد طہ کبوتر پورہ شریف تشریف لائے اور بیان کرتے ہوئے ارشاد فرمایا کہ بروز قیامت جب میرا رب مجھ سے پوچھے گا کہ اے غلام علی! تم دنیا سے میرے لئے کیا لائے ہو تو میں نہایت ادب سے عرض کروں گا کہ میں تیرے برگزیدہ بندے “محمد عنایت احمد” کو لایا ہوں۔ اللّٰه اکبر",
+            "یہ کہتے ہوئے فرمایا کہ میرے پاس جو کچھ ہے میں حضرت پیر محمد عنایت احمد نقشبندی کو عطا کرتا ہوں۔",
+            "حضرت پیر محمد عنایت احمد نقشبندی رحمۃ اللّٰه علیہ نے اپنی پوری زندگی دین اسلام کی تبلیغ کی اور لاکھوں نوجوانوں کو آپ رحمتہ اللّٰه علیہ نے صراط مستقیم پر گامزن کیا۔",
+            "آپ رحمتہ اللّٰه علیہ 43 سال تک جامع مسجد طہ کبوتر پورہ شریف میں امامت و خطابت کے ساتھ ساتھ بھٹکے ہوئے انسانوں کی رہنمائی فرماتے رہے۔"
+          ],
+          "en": [
+            "While he was studying at Ashraf-ul-Madaris in Okara, a bond of devoted love also grew between him and Hazoor Ganj-e-Karam Hazrat Syed Muhammad Ismail Shah Bukhari (rahimahullah). Many times he visited Karmanwala Sharif together with Hazrat Maulana Ghulam Ali Okarvi (rahimahullah). A passion to travel the stages of spirituality then took hold of him, and he began to visit there often. One evening, a longing to pledge allegiance to Hazrat Syed Muhammad Ismail Shah Bukhari rose in his heart, and he went on foot to Karmanwala Sharif. The Sahib of Karmanwala (rahimahullah), who was engaged in his litanies in a private corner, cast a glance of mercy on him, and he asked to become his disciple. Hearing this, Hazrat Syed Muhammad Ismail Shah Bukhari said, “Beliya! You have been my disciple since the Day of Alast.” Saying this, he passed his hand of affection over his chest and said, “Go; we grant you all the knowledge of the world.”",
+            "He loved his noble Murshid, the Sahib of Karmanwala (rahimahullah), with deep devotion.",
+            "In 1969, Hazrat Pir Muhammad Inayat Ahmad Naqshbandi (rahimahullah) came to Kabutar Pura Sharif, Gulberg III, and took charge as imam of the mosque, which was in a very dilapidated state. He resolved to have it rebuilt, and in 1971 he laid its foundation stone with his own blessed hands and named it Jamia Masjid Taha. At first, when he arranged the Friday prayer, the number of worshippers was almost nil, but within a few years the lovers of the Messenger (peace be upon him) began to turn towards Jamia Masjid Taha. Lessons and teaching began after every prayer, and thousands of people embraced Islam at his blessed hands. At the Lahore Omni Bus Workshop he continued to give lessons for 14 years without a break.",
+            "He was granted khilafat and permission by Hazrat Syed Zaheer-ul-Hasan Shah (rahimahullah) of Karachi, the Sajjada Nasheen of Astana Aliya Makan Sharif Hazrat Syed Mahfooz Hussain Shah (rahimahullah), Sheikh-ul-Hadith Maulana Muhammad Abdullah Qasuri (rahimahullah), Pir Sahib of Deol Sharif, the successor of Ganj-e-Karam Hazoor Babaji Pir Syed Mir Tayyab Ali Shah Bukhari (rahimahullah), and other elders.",
+            "Sheikh-ul-Quran Hazrat Maulana Ghulam Ali Okarvi (rahimahullah) came to Jamia Masjid Taha, Kabutar Pura Sharif, and in his address said that on the Day of Judgement, when my Lord asks me, “O Ghulam Ali! What have you brought for Me from the world?”, I will humbly reply, “I have brought Your chosen servant, Muhammad Inayat Ahmad.” Allahu Akbar.",
+            "Saying this, he said that whatever he possessed he was bestowing upon Hazrat Pir Muhammad Inayat Ahmad Naqshbandi.",
+            "Hazrat Pir Muhammad Inayat Ahmad Naqshbandi (rahimahullah) spent his whole life preaching Islam, and set millions of young people on the straight path.",
+            "For 43 years he served as Imam and Khateeb at Jamia Masjid Taha, Kabutar Pura Sharif, while also guiding people who had gone astray."
+          ]
+        }
+      },
+      {
+        "id": "passing",
+        "title": {
+          "ur": "وصال و جانشین",
+          "en": "Passing and successor"
+        },
+        "paragraphs": {
+          "ur": [
+            "اللّٰه تعالیٰ کے نیک بندے اپنے رب اور اس کے پیارے حبیب حضرت محمد صلی اللّٰه علیہ وسلم کے ارشادات کو مخلوق تک پہنچانے اور بھٹکے ہوئے انسانوں کو راہ راست پر لانے کے لیے اپنی زندگی وقف کر دیتے ہیں۔ ایسی ہی ہستیوں کو لوگ “ولی کامل” کے لقب سے پکارتے ہیں۔ ایسی ہی منبع رشد و ہدایت ہستیوں میں ولی کامل حضرت علامہ پیر محمد عنایت احمد نقشبندی مجددی رحمۃ اللّٰه علیہ کا نام مبارک بھی شامل ہے جن کی زندگی کا ایک ایک لمحہ دین الٰہی کو سیکھنے، شریعت محمدی صلی اللّٰه علیہ وسلم پر عمل پیرا ہونے اور بھٹکے ہوئے انسانوں کو راہ راست پر لانے میں صرف ہوا۔",
+            "آپ رحمتہ اللّٰه علیہ 73 سال کی عمر پاکر 31 جولائی 2011ء میں وصال فرما گئے۔۔ إِنَّا لِلّهِ وَإِنَّـا إِلَيْهِ رَاجِعونَ بے شک ہم الله کے لئے ہیں اور اسی کی طرف لوٹ جانے والے ہیں۔۔",
+            "آپ رحمتہ اللّٰه علیہ کا جنازہ لاہور کے بڑے جنازوں میں شمار کیا جاسکتا ہے جس میں لاکھوں لوگوں نے شرکت کی۔",
+            "آپ رحمتہ اللّٰه علیہ کا یہ خاصہ تھا کہ جو بھی آپکی بارگاہ میں کچھ وقت گزارتا وہ یہی کہتا کہ یہ سب سے بڑھ کر مجھ سے پیار کرتے تھے۔",
+            "آپ رحمتہ اللّٰه علیہ کے وصال کے بعد آپ رحمتہ اللّٰه علیہ کے حکم اور شیخ المشائخ باباجی حضور سید میر طیب علی شاہ بخاری رحمتہ اللّٰه علیہ کی اجازت سے آستانہ عالیہ حضور گنج عنایت سرکار کا سجادہ نشین آپ رحمتہ اللّٰه علیہ کے بڑے صاحبزادے صاحبزادہ محمد عمر نقشبندی کو مقرر کیا گیا۔",
+            "قبلہ صاحبزادہ محمد عمر نقشبندی مجددی حفظہ اللہ آستانہ عالیہ حضور گنج عنایت سرکار کا انتظام و انصرام خانقاہی نظام کے خطوط پر دور جدید سے ہم آہنگ کرتے ہوئے مریدین کی رہنمائی فرما رہے ہیں۔"
+          ],
+          "en": [
+            "The righteous servants of Allah devote their lives to conveying the words of their Lord and of His beloved Prophet Muhammad (peace be upon him) to creation, and to bringing lost people back to the right path. People call such personalities “Wali-e-Kamil” (perfect saint). Among such sources of guidance is the blessed name of the Wali-e-Kamil Hazrat Allama Pir Muhammad Inayat Ahmad Naqshbandi Mujaddidi (rahimahullah), every moment of whose life was spent in learning the divine religion, acting upon the Shariah of Muhammad (peace be upon him) and bringing lost people to the right path.",
+            "He passed away on 31 July 2011, at the age of 73. Indeed, to Allah we belong and to Him we shall return.",
+            "His funeral can be counted among the largest funerals of Lahore, attended by hundreds of thousands of people.",
+            "It was his distinction that whoever spent some time in his company would say that he loved him more than anyone else.",
+            "After his passing, by his instruction and with the permission of Sheikh-ul-Mashaikh Babaji Hazoor Syed Mir Tayyab Ali Shah Bukhari (rahimahullah), his eldest son, Sahibzada Muhammad Umer Naqshbandi, was appointed Sajjada Nasheen of Astana Aliya Hazoor Ganj-e-Inayat Sarkar.",
+            "Qibla Sahibzada Muhammad Umer Naqshbandi Mujaddidi (hafizahullah) is guiding the disciples while running the affairs of Astana Aliya Hazoor Ganj-e-Inayat Sarkar along the lines of the khanqah system, in harmony with the modern age."
+          ]
+        }
+      }
+    ]
+  },
+  "father": {
+    "name": {
+      "ur": "حضرت میاں صحبت علی قادری رحمۃ اللہ علیہ",
+      "en": "Hazrat Mian Suhbat Ali Qadri (rahimahullah)"
+    },
+    "role": {
+      "ur": "والد گرامی حضور گنجِ عنایت سرکار",
+      "en": "Father of Hazoor Ganj-e-Inayat Sarkar"
+    },
+    "image": "assets/people/mian-suhbat-ali-qadri.webp",
+    "paragraphs": {
+      "ur": [
+        "آپ رحمتہ اللہ علیہ ولی کامل حضرت پیر محمد عنایت احمد نقشبندی رحمۃ اللّٰه علیہ کے والد گرامی اور صاحبزادہ محمد عمر نقشبندی حفظہ اللّٰه کے دادا جان ہیں۔",
+        "آپ رحمتہ اللّٰه علیہ کشمیر کے معروف گاؤں “کلسیاں” کے ایک دینی گھرانے میں پیدا ہوئے۔ آپ رحمتہ اللّٰه علیہ شرافت، دیانت او روحانیت کے اعتبار سے پوری وادی میں الگ پہچان رکھتے تھے",
+        "حضرت صحبت علی قادری رحمۃ اللّٰه علیہ بٹالہ شریف انڈیا میں بیعت تھے۔جن کی شہرت پورے ہندوستان میں تھی۔",
+        "تبلیغِ دین اور روحانی فیض کے ساتھ ساتھ حضرت صحبت علی قادری رحمۃ اللہ علیہ کا ذریعہ معاش کھیتی باڑی تھا۔جبکہ پھلوں کے چند باغ آپ رحمتہ اللّٰه علیہ کی ملکیت تھے۔",
+        "آپ رحمتہ اللّٰه علیہ کی اہلیہ محترمہ بہت نیک سیرت اور پابند صوم و صلوۃ خاتون تھیں۔خانہ داری کے ساتھ ساتھ گاؤں کی بچیوں کو قرآنِ مجید کی تعلیم دیا کرتی تھیں۔ آپ رحمۃ اللّٰه علیہ کے 3 صاحبزادے اور ایک صاحبزادی تھیں۔",
+        "آپ رحمتہ اللّٰه علیہ کے ہاں سب سے پہلے 1937 میں ولی کامل حضرت پیر محمد عنایت احمد نقشبندی مجددی رحمۃ اللہ علیہ کی ولادت ہوئی۔",
+        "حضرت پیر محمد عنایت احمد نقشبندی رحمۃ اللہ علیہ کی ولادت کے بعد معروف اسلامی رہنما حضرت سید ولایت علی شاہ رحمتہ اللّٰه علیہ حضرت صحبت علی قادری رحمۃ اللّٰه علیہ کے ہاں تشریف لائے اور حضرت پیر محمد عنایت احمد نقشبندی رحمۃ اللّٰه علیہ کو گود میں اٹھا کر پیار کرتے ہوئے فرمایا کہ الله نے چاہا تو یہ بچہ اپنے وقت کا قطب، عالم دین اور منبع رشد و ہدایت ہوگا اور لاکھوں بھٹکے ہوئے انسانوں کو صراط مستقیم پر گامزن کرے گا۔",
+        "قیام پاکستان کے وقت آپ ؒ کا خاندان ہجرت کرکے گجرات کے نواحی قصبے چک 34 میں آکر آباد ہوگیا۔",
+        "ولی کامل حضرت پیر محمد عنایت احمد نقشبندی رحمۃ اللّٰه علیہ فرماتے تھے کہ میرے والد گرامی حضرت صحبت علی قادری رحمۃ اللہ علیہ انتہائی نیک صوفی بزرگ اور عظیم ولی کامل تھے۔"
+      ],
+      "en": [
+        "He (rahimahullah) was the respected father of the Wali-e-Kamil Hazrat Pir Muhammad Inayat Ahmad Naqshbandi (rahimahullah) and the grandfather of Sahibzada Muhammad Umer Naqshbandi (hafizahullah).",
+        "He was born into a religious family in the well-known village of Kalsian in Kashmir. He was known throughout the valley for his nobility, honesty and spirituality.",
+        "Hazrat Suhbat Ali Qadri (rahimahullah) had pledged allegiance at Batala Sharif, India, and was renowned across India.",
+        "Alongside preaching and spiritual guidance, Hazrat Suhbat Ali Qadri earned his living through farming, and he owned a few fruit orchards.",
+        "His wife was a woman of excellent character, regular in fasting and prayer. Alongside her household duties, she taught the Holy Quran to the girls of the village. They had 3 sons and a daughter.",
+        "The first child born to him, in 1937, was the Wali-e-Kamil Hazrat Pir Muhammad Inayat Ahmad Naqshbandi Mujaddidi (rahimahullah).",
+        "After the birth of Hazrat Pir Muhammad Inayat Ahmad Naqshbandi, the well-known Islamic leader Hazrat Syed Wilayat Ali Shah (rahimahullah) came to Hazrat Suhbat Ali Qadri and, taking the child in his lap and caressing him, said that, if Allah willed, this child would become the Qutb of his time, a scholar of religion and a source of guidance, and would lead millions of lost people onto the straight path.",
+        "At the time of the creation of Pakistan, his family migrated and settled in Chak 34, a town near Gujrat.",
+        "The Wali-e-Kamil Hazrat Pir Muhammad Inayat Ahmad Naqshbandi (rahimahullah) used to say that his respected father, Hazrat Suhbat Ali Qadri (rahimahullah), was an extremely pious Sufi elder and a great perfect saint."
+      ]
+    }
+  },
+  "sahibzada": {
+    "name": {
+      "ur": "صاحبزادہ حافظ پیر محمد عمر نقشبندی مجددی حفظہ اللہ",
+      "en": "Sahibzada Hafiz Pir Muhammad Umer Naqshbandi Mujaddidi (hafizahullah)"
+    },
+    "role": {
+      "ur": "سجادہ نشین آستانہ عالیہ حضور گنجِ عنایت سرکار",
+      "en": "Sajjada Nasheen, Astana Aliya Hazoor Ganj-e-Inayat Sarkar"
+    },
+    "image": "assets/people/sahibzada-umar-naqshbandi.webp",
+    "photos": [
+      "assets/people/sahibzada-02.webp",
+      "assets/people/sahibzada-03.webp"
+    ],
+    "paragraphs": {
+      "ur": [
+        "صاحبزادہ محمد عمر نقشبندی عظیم ولی کامل، قطب الاقطاب حضور گنجِ عنایت سرکار، علامہ پیر محمد عنایت احمد نقشبندی مجددی عليه الرحمة کے صاحبزادے اور جانشین ہیں۔",
+        "قبلہ صاحبزادہ صاحب سلسلہ عالیہ نقشبندیہ میں گنجِ کرم حضرت کرماں والے عليه الرحمة کے جانشین باباجی سید میر طیب علی شاہ بخاری عليه الرحمة کے مرید و خلیفہ ہیں۔",
+        "آپ کو اپنے والد گرامی کی نصیحت اور جانشینِ گنجِ کرم باباجی حضور کی خلافت و تقرر سے آستانہ عالیہ حضور گنجِ عنایت سرکار کا سجادہ نشین مقرر کیا گیا۔ آپ کو سلسلہ نقشبندیہ کی علاوہ قادریه سہروردیہ چشتیہ سلاسل کی خلافت بھی حاصل ہے۔",
+        "صاحبزادہ پیر محمد عمر نقشبندی آستانہ عالیہ حضور گنجِ عنایت سرکار ( کبوتر پورہ شریف) کا انتظام و انصرام خانقاہی نظام کے خطوط پر دور جدید سے ہم آہنگ کرتے ہوئے بیلیوں (مریدین) کی رہنمائی فرما رہے ہیں۔"
+      ],
+      "en": [
+        "Sahibzada Pir Muhammad Umer Naqshbandi is a promising young Islamic scholar and the designated successor (Jan Nasheen) of Hazrat Allamah Pir Muhammad Inayat Ahmad Naqshbandi R.A. He serves as the Sajjada Nasheen of Astana Aliya Hazoor Ganj-e-Inayat Sarkar, Kabotar Pura Shareef, having received the khilafat (spiritual succession) from Baba Jee Syed Mir Tayyab Ali Shah Bukhari, Astana Aliya Hazrat Karmanwala Shareef, Okara.",
+        "Notably, Umer Naqshbandi has also been granted khilafah by numerous esteemed religious scholars from various spiritual lineages.",
+        "His enlightening lectures are accessible on the official YouTube and Facebook pages of Pir Muhammad Umer Naqshbandi and Astana Aliya Hazoor Ganj-e-Inayat Sarkar."
+      ]
+    },
+    "links": {
+      "facebook": "https://www.facebook.com/PirMuhammadUmerNaqashbandi",
+      "youtube": "https://www.youtube.com/@PirMuhammadUmerNaqashbandi"
+    }
+  }
+}

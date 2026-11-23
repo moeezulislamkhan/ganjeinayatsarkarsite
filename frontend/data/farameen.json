@@ -1,0 +1,125 @@
+{
+  "_help": "Sayings (Farameen). With image = a quote card (600x1200 WebP in assets/farameen/); image null = text-only saying. Urdu text is copied from the cards / old website; English lines are DRAFT translations that the institution must approve.",
+  "items": [
+    {
+      "id": 1,
+      "image": "assets/farameen/farman-01.webp",
+      "text": {
+        "ur": "کرامت کو چھپانا ہی سب سے بڑی کرامت ہے۔",
+        "en": "Concealing a miracle (karamat) is the greatest miracle."
+      }
+    },
+    {
+      "id": 2,
+      "image": "assets/farameen/farman-02.webp",
+      "text": {
+        "ur": "سچا ولی ہر حال میں اللہ تعالی سے راضی رہتا ہے",
+        "en": "A true saint remains pleased with Allah the Most High in every condition."
+      }
+    },
+    {
+      "id": 3,
+      "image": "assets/farameen/farman-03.webp",
+      "text": {
+        "ur": "درود شریف ہی اسم اعظم ہے",
+        "en": "Durood Sharif is the Ism-e-Azam (the Greatest Name)."
+      }
+    },
+    {
+      "id": 4,
+      "image": "assets/farameen/farman-04.webp",
+      "text": {
+        "ur": "مردہ زندہ کرنا کوئی کمال نہیں مردہ دل زندہ کرنا کمال ہے",
+        "en": "Raising the dead is no great feat; reviving a dead heart is the real feat."
+      }
+    },
+    {
+      "id": 5,
+      "image": "assets/farameen/farman-05.webp",
+      "text": {
+        "ur": "کرامت سے استقامت بہتر ہے",
+        "en": "Steadfastness is better than miracles."
+      }
+    },
+    {
+      "id": 6,
+      "image": "assets/farameen/farman-06.webp",
+      "text": {
+        "ur": "سچا ولی ہر حال میں اللہ سے راضی رہتا ہے",
+        "en": "A true saint remains pleased with Allah in every condition."
+      }
+    },
+    {
+      "id": 7,
+      "image": "assets/farameen/farman-07.webp",
+      "text": {
+        "ur": "محبوب کی اداؤں کا نام نماز ہے۔ جو ان اداؤں کو اپنائے گا کامیاب ہو جائے گا",
+        "en": "Salah is the name of the Beloved's ways; whoever adopts these ways will succeed."
+      }
+    },
+    {
+      "id": 8,
+      "image": "assets/farameen/farman-08.webp",
+      "text": {
+        "ur": "نماز اللہ عزّوجل سے گہرا تعلق پیدا کرنے کا بہترین ذریعہ ہے",
+        "en": "Salah is the best means of building a deep connection with Allah, the Mighty and Majestic."
+      }
+    },
+    {
+      "id": 9,
+      "image": "assets/farameen/farman-09.webp",
+      "text": {
+        "ur": "جو شخص خلقِ خُدا کی خدمت کا دعویٰ دار ہو اور طالبِ دنیا ہو، وہ کذّاب ہے",
+        "en": "Whoever claims to serve God's creation while being a seeker of this world is a liar."
+      }
+    },
+    {
+      "id": 10,
+      "image": "assets/farameen/farman-10.webp",
+      "text": {
+        "ur": "مومن کی تعریف یہ ہے کہ وہ ہر گھڑی توبہ کرتا رہے",
+        "en": "The definition of a believer is that he keeps repenting at every moment."
+      }
+    },
+    {
+      "id": 11,
+      "image": "assets/farameen/farman-11.webp",
+      "text": {
+        "ur": "جو شخص اپنے خالق سے محبت کا دعویٰ کرے اور اپنے نفس کی پرورش کرے وہ کہاں کا صادق ہے",
+        "en": "How can one who claims love for his Creator yet nurtures his own self be truthful?"
+      }
+    },
+    {
+      "id": 12,
+      "image": "assets/farameen/farman-12.webp",
+      "text": {
+        "ur": "وہ شخص جھوٹا ہے جو اپنے اعمال کے اخلاص کا اعلان کرے اور لوگوں سے عزّت افزائی کا طلب گار ہو",
+        "en": "He is a liar who announces the sincerity of his deeds and seeks honour from people."
+      }
+    },
+    {
+      "id": 13,
+      "image": "assets/farameen/farman-13.webp",
+      "text": {
+        "ur": "تین آدمیوں سے بچنا چاہیے: جاہل پیر، جابر حاکم اور دنیا دار عالم۔",
+        "en": "One should beware of three kinds of people: an ignorant pir, a tyrannical ruler and a worldly scholar."
+      }
+    },
+    {
+      "id": 14,
+      "image": null,
+      "text": {
+        "ur": "شریعت پر قائم رہنا سب سے بڑی استقامت ہے۔",
+        "en": "Remaining firm upon the Shariah is the greatest steadfastness."
+      }
+    },
+    {
+      "id": 15,
+      "image": null,
+      "text": {
+        "ur": "بہترین وظیفہ یہ ہے کہ بندہ اپنے شیخ کے آستانے کے ساتھ وابستہ رہے۔",
+        "en": "The best wazifa is for the servant to stay attached to the threshold (astana) of his Sheikh."
+      }
+    }
+  ]
+}

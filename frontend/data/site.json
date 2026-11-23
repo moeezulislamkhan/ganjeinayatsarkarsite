@@ -1,0 +1,45 @@
+{
+  "_help": "Site-wide details. Every text is {\"ur\": \"...\", \"en\": \"...\"}. Used in header, footer, contact page and SEO.",
+  "name": {
+    "ur": "حضور گنجِ عنایت سرکار",
+    "en": "Ganj-e-Inayat Sarkar"
+  },
+  "tagline": {
+    "ur": "سلسلۂ نقشبندیہ",
+    "en": "Silsila-e-Naqshbandia"
+  },
+  "description": {
+    "ur": "حضور گنجِ عنایت سرکار رحمۃ اللّٰه علیہ 1937ء کو وادی کشمیر کے معروف گاؤں “کلسیاں” کے ایک دینی و روحانی خاندان میں پیدا ہوئے۔",
+    "en": "Official website of Darbar-e-Aaliya Hazoor Ganj-e-Inayat Sarkar, Silsila-e-Naqshbandia Mujaddidia, Kabutar Pura Sharif, Gulberg III, Lahore."
+  },
+  "footerAbout": {
+    "ur": "روحانی رہنمائی، اسلامی علوم اور خدمتِ انسانیت کا مرکز، سلسلۂ نقشبندیہ مجددیہ سے وابستہ۔",
+    "en": "A centre of spiritual guidance, Islamic knowledge and service to humanity, connected with the blessed Silsila-e-Naqshbandia Mujaddidia."
+  },
+  "address": {
+    "ur": "قبرستان بلاک اے تھری گلبرگ تھری، لاہور، پنجاب پاکستان",
+    "en": "Qabristan Block A-3, Gulberg III, Lahore, Punjab, Pakistan"
+  },
+  "venue": {
+    "ur": "دربار عالیہ حضور گنج عنایت سرکار، کبوتر پورہ شریف، گلبرگ 3، لاہور",
+    "en": "Darbar-e-Aaliya Hazoor Ganj-e-Inayat Sarkar, Kabutar Pura Sharif, Gulberg III, Lahore"
+  },
+  "whatsapp": "+92 333 4328031",
+  "whatsappNumber": "923334328031",
+  "email": "ganjeinayatofficial@gmail.com",
+  "hours": {
+    "ur": "روزانہ صبح 6 بجے سے رات 11 بجے تک",
+    "en": "Open daily, 6 am - 11 pm"
+  },
+  "map": {
+    "lat": 31.5055689,
+    "lng": 74.3567027,
+    "url": "https://www.google.com/maps/search/?api=1&query=31.5055689,74.3567027"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/PirMuhammadUmerNaqashbandi",
+    "youtube": "https://www.youtube.com/c/GanjeInayatOfficial",
+    "instagram": "https://www.instagram.com/pir_muhammad_umer_naqshbandi/",
+    "twitter": "https://twitter.com/GanjInayat"
+  }
+}

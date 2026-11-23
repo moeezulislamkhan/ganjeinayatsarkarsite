@@ -1,0 +1,92 @@
+{
+  "_help": "Home page slider. Image: 1920x860 WebP in assets/hero/. Add or remove slides freely (1 to 5 works best).",
+  "items": [
+    {
+      "id": 1,
+      "image": "assets/hero/hero-1.webp",
+      "alt": {
+        "ur": "دربار شریف کا گنبد",
+        "en": "The dome of the Darbar Sharif"
+      },
+      "eyebrow": {
+        "ur": "روحانی رہنمائی • اسلامی علوم • خدمتِ انسانیت",
+        "en": "Spiritual guidance • Islamic knowledge • Humanity service"
+      },
+      "title": {
+        "ur": "حضور گنجِ عنایت سرکار",
+        "en": "Ganj-e-Inayat Sarkar"
+      },
+      "subtitle": {
+        "ur": "سلسلۂ نقشبندیہ",
+        "en": "Silsila-e-Naqshbandia"
+      },
+      "text": {
+        "ur": "دربار شریف پیر طریقت رہبر شریعت حضرت مولانا پیر محمد عنایت احمد نقشبندی مجددی رحمۃ اللہ علیہ المعروف حضور گنج عنایت سرکار",
+        "en": "Darbar Sharif of Pir-e-Tariqat, Rahbar-e-Shariat Hazrat Maulana Pir Muhammad Inayat Ahmad Naqshbandi Mujaddidi (rahimahullah), known as Hazoor Ganj-e-Inayat Sarkar."
+      },
+      "ctaLabel": {
+        "ur": "ہمارا ورثہ جانیں",
+        "en": "Explore Our Heritage"
+      },
+      "ctaHref": "about.html"
+    },
+    {
+      "id": 2,
+      "image": "assets/hero/hero-2.webp",
+      "alt": {
+        "ur": "دربار شریف کا اندرونی منظر",
+        "en": "Inside the Darbar Sharif"
+      },
+      "eyebrow": {
+        "ur": "روحانی رہنمائی • اسلامی علوم • خدمتِ انسانیت",
+        "en": "Spiritual guidance • Islamic knowledge • Humanity service"
+      },
+      "title": {
+        "ur": "دربارِ عالیہ",
+        "en": "Darbar-e-Aaliya"
+      },
+      "subtitle": {
+        "ur": "کبوتر پورہ شریف، گلبرگ 3، لاہور",
+        "en": "Kabutar Pura Sharif, Gulberg III, Lahore"
+      },
+      "text": {
+        "ur": "محفلِ درود شریف ہر ہفتہ بعد از نمازِ عشاء ہوتی ہے۔",
+        "en": "Mehfil-e-Durood Shareef is held every week after the Isha prayer."
+      },
+      "ctaLabel": {
+        "ur": "پروگرامز دیکھیں",
+        "en": "View Programs"
+      },
+      "ctaHref": "khidmaat.html#programs"
+    },
+    {
+      "id": 3,
+      "image": "assets/hero/hero-3.webp",
+      "alt": {
+        "ur": "دربار شریف کا رات کا منظر",
+        "en": "The Darbar Sharif at night"
+      },
+      "eyebrow": {
+        "ur": "روحانی رہنمائی • اسلامی علوم • خدمتِ انسانیت",
+        "en": "Spiritual guidance • Islamic knowledge • Humanity service"
+      },
+      "title": {
+        "ur": "حضرت پیر محمد عنایت احمد نقشبندی مجددی",
+        "en": "Hazrat Pir Muhammad Inayat Ahmad Naqshbandi Mujaddidi"
+      },
+      "subtitle": {
+        "ur": "المعروف حضور گنجِ عنایت سرکار",
+        "en": "Known as Hazoor Ganj-e-Inayat Sarkar"
+      },
+      "text": {
+        "ur": "حضور گنجِ عنایت سرکار رحمۃ اللّٰه علیہ 1937ء کو وادی کشمیر کے معروف گاؤں “کلسیاں” کے ایک دینی و روحانی خاندان میں پیدا ہوئے۔",
+        "en": "Hazoor Ganj-e-Inayat Sarkar (rahimahullah) was born in 1937 in the well-known village of Kalsian in the Kashmir Valley, into a religious and spiritual family."
+      },
+      "ctaLabel": {
+        "ur": "سوانح پڑھیں",
+        "en": "Read the Biography"
+      },
+      "ctaHref": "about.html#hazoor"
+    }
+  ]
+}
